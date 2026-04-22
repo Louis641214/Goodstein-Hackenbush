@@ -1,7 +1,7 @@
 [project]
 name = "Goodstein-Hackenbush"
 version = "1.0.0"
-description = "Goodstein / Hackenbush"
+description = "Goodstein / Hackenbush implementation"
 authors = [{ name = "Louis641214" }]
 dependencies = [
     "matplotlib>=3.10"
