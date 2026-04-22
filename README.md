@@ -1,4 +1,4 @@
-## Problem Set 3
+## Goodstein-Hackenbush
 This project contains implementations of two algorithmic problems in Python:
 
     - The Goodstein sequence

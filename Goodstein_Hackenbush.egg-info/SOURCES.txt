@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+Goodstein_Hackenbush.egg-info/PKG-INFO
+Goodstein_Hackenbush.egg-info/SOURCES.txt
+Goodstein_Hackenbush.egg-info/dependency_links.txt
+Goodstein_Hackenbush.egg-info/requires.txt
+Goodstein_Hackenbush.egg-info/top_level.txt
+src/Goodstein.py
+src/Hackenbush.py
+tests/tests_Goodstein.py
+tests/tests_Hackenbush.py
