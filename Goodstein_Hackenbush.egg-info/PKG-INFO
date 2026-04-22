@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: Goodstein-Hackenbush
-Version: 1.0.0
-Summary: Goodstein / Hackenbush
-Author: Louis641214
-Requires-Dist: matplotlib>=3.10
